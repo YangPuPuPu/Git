@@ -11,5 +11,6 @@ public class ghj {
         System.out.println("helloworld2");
         System.out.println("helloworld3");
         System.out.println("helloworld4");
+        System.out.println("master test!");
     }
 }
